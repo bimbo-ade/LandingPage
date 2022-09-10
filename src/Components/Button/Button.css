@@ -1,0 +1,55 @@
+:root {
+  --primary: #038d6d;
+  --secondary: #073d30;
+}
+.icon {
+  position: absolute;
+  font-size: 21px;
+  left: 10px;
+  top: 15px;
+  color: #2e413d;
+}
+.btn {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  position: relative;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: 0;
+  border: none;
+  /* margin: 10px 0; */
+}
+
+.primary--solid {
+  background-color: var(--primary);
+  color: #fafafa;
+  transition: 123ms ease;
+}
+.primary--solid:hover {
+  background-color: var(--secondary);
+}
+
+.secondary--solid {
+  background-color: var(--secondary);
+  color: #fafafa;
+}
+.primary--outline {
+  background-color: transparent;
+  border: 2px solid var(--primary);
+  color: var(--secondary);
+}
+.secondary--outline {
+  background-color: transparent;
+  border: 2px solid var(--secondary);
+  color: var(--secondary);
+}
+
+.medium {
+  font-size: 14px;
+  padding: 0.6rem 1rem;
+}
+.large {
+  font-size: 18px;
+  padding: 0.8rem 1.5rem;
+  /* width: 100%; */
+}
