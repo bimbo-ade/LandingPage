@@ -1,6 +1,6 @@
 :root {
-  --primary: #038d6d;
-  --secondary: #073d30;
+  --primary: #063300;
+  --secondary: #031a00;
 }
 .icon {
   position: absolute;
@@ -22,7 +22,7 @@
 
 .primary--solid {
   background-color: var(--primary);
-  color: #fafafa;
+  color: #c7c7c7;
   transition: 123ms ease;
 }
 .primary--solid:hover {
@@ -31,7 +31,7 @@
 
 .secondary--solid {
   background-color: var(--secondary);
-  color: #fafafa;
+  color: #c7c7c7;
 }
 .primary--outline {
   background-color: transparent;

@@ -1,6 +1,6 @@
 import styled from "styled-components";
 export const Div = styled.div`
-  background-color: #032b21;
+  background-color: #031a00;
   height: 50vh;
   margin: 10rem auto 0;
   display: grid;
@@ -10,12 +10,12 @@ export const Div = styled.div`
 
   .text {
     text-align: center;
-    h2 {
+    h4 {
       padding-bottom: 1.2rem;
     }
   }
   .contact {
-    .ico {
+    .icons {
       display: flex;
       flex-direction: row;
       justify-content: center;
@@ -23,11 +23,11 @@ export const Div = styled.div`
       span {
         text-align: center;
         margin-left: 1rem;
-        font-size: 1rem;
+        margin-bottom: 1.3rem;
       }
     }
     svg {
-      font-size: 2rem;
+      font-size: 1.5rem;
       padding-bottom: 1.2rem;
     }
   }
@@ -40,7 +40,7 @@ export const Div = styled.div`
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(19, 19, 19, 0.5);
+    background-color: rgb(19, 19, 19, 0.3);
     border-radius: 0.4rem;
     h3 {
       margin-bottom: 1rem;

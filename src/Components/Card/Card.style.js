@@ -15,7 +15,7 @@ export const Div = styled.div`
     left: 0;
     height: 370px;
     width: 400px;
-    background-color: #064335;
+    background-color: #063300;
     border-radius: 5%;
   }
   .card2 {
@@ -24,7 +24,7 @@ export const Div = styled.div`
     left: 0;
     height: 370px;
     width: 380px;
-    background-color: #09785e;
+    background-color: #0d5f02;
     border-radius: 5%;
   }
   .card3 {
@@ -52,7 +52,7 @@ export const Div = styled.div`
       margin-bottom: 0.8rem;
     }
     p {
-      color: #ececec;
+      color: #bababa;
       margin-bottom: 1rem;
     }
   }

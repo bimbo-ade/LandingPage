@@ -25,7 +25,7 @@ export const Div = styled.div`
     right: 0;
     top: 0;
     height: 94vh;
-    background-color: #70cca0;
+    background-color: #0d5f02;
     opacity: 0.6;
 
     border-radius: 0 0 60% 0%;

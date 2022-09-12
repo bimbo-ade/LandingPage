@@ -4,5 +4,7 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
 
-  background-color: rgb(19, 19, 19);
+  background-image: url("Assets/Images/neonbg1.png");
+  /* opacity: 0.2; */
+  /* background-color: rgb(19, 19, 19); */
 }

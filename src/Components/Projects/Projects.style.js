@@ -25,7 +25,7 @@ h1{
   padding:1rem;
   height:110px;
   width: 310px;
- background-color: #70CCA0;
+ background-color: #063300;
  margin-bottom:3rem;
  z-index:-2;
 }
@@ -40,8 +40,8 @@ h1{
   padding:1rem;
   height:110px;
   width: 310px;
- background-color: #064335;
- margin-bottom:3rem;
+ background-color: #031A00;
+ margin-bottom:4rem;
 
 
 
@@ -66,7 +66,7 @@ h1{
   p{
     background-color: transparent;
     font-size:0.8rem;
-    color:#ececec;
+    color:#BABABA;
   }
 }
 

@@ -12,16 +12,16 @@ const Login = () => {
   return (
     <Div>
       <div className="text">
-        <h2>Please Feel Free to call me</h2>
+        <h4>Please Feel Free to reach me</h4>
         <div className="contact">
-          <div className="ico">
+          <div className="icons">
             <FaTwitterSquare />
             <span>@zionnestar</span>
           </div>
-          <div className="ico">
+          <div className="icons">
             <FaFacebookSquare /> <span>@zionnestar</span>
           </div>
-          <div className="ico">
+          <div className="icons">
             <FaInstagramSquare /> <span>@zionnestar</span>
           </div>
         </div>

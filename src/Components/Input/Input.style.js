@@ -7,7 +7,7 @@ export const Container = styled.div`
   background-color: transparent;
 
   input {
-    background-color: rgb(19, 19, 19, 0.8);
+    background-color: rgb(19, 19, 19, 0.3);
     height: 40px;
     width: 100%;
     padding: 0 10px;
