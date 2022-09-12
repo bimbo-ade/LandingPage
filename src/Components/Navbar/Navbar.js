@@ -3,7 +3,7 @@ import { Div } from "./Navbar.style";
 const Navbar = () => {
   return (
     <Div>
-      <img src="" alt="logo" />
+      <h2>ZIONNE</h2>
       <div className="links">
         <ul>
           <li>Home</li>

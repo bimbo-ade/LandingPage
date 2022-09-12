@@ -10,40 +10,38 @@ export const Div = styled.div`
 
   .text {
     text-align: center;
-    background-color: transparent;
     h2 {
-      background-color: transparent;
-
       padding-bottom: 1.2rem;
     }
   }
   .contact {
-    background-color: transparent;
     .ico {
       display: flex;
       flex-direction: row;
       justify-content: center;
       align-items: center;
-      background-color: transparent;
       span {
-        background-color: transparent;
         text-align: center;
         margin-left: 1rem;
         font-size: 1rem;
       }
     }
     svg {
-      background-color: transparent;
       font-size: 2rem;
       padding-bottom: 1.2rem;
     }
   }
 
   .cont {
-    background-color: transparent;
     text-align: center;
-    height: auto;
-    width: auto;
+    height: 17rem;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(19, 19, 19, 0.5);
+    border-radius: 0.4rem;
     h3 {
       margin-bottom: 1rem;
 

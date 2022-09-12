@@ -1,18 +1,18 @@
 import styled from "styled-components";
 
-export const Line = styled.div`
-  margin: 5rem auto 0;
-  height: 2px;
-  width: 80%;
-  background-color: #eeeeee;
-`;
+// export const Line = styled.div`
+//   margin: 5rem auto 0;
+//   height: 2px;
+//   width: 80%;
+//   background-color: #eeeeee;
+// `;
 
 export const Div = styled.div`
   background-color: #032b21;
   height: 250px;
 
   width: 100%;
-  margin: 5rem auto 0;
+  margin: 0 auto 0;
   display: grid;
   grid-template-columns: 50% 50%;
   align-items: center;

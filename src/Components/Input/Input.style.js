@@ -7,14 +7,14 @@ export const Container = styled.div`
   background-color: transparent;
 
   input {
-    background-color: black;
-    height: 50px;
-    width: 90%;
+    background-color: rgb(19, 19, 19, 0.8);
+    height: 40px;
+    width: 100%;
     padding: 0 10px;
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin: 0.5rem auto;
     outline: none;
-    color: white;
+
     border: 0;
     border-radius: 0.4rem;
   }

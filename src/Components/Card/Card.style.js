@@ -4,7 +4,7 @@ import girl from "../../Assets/Images/girl.webp";
 
 export const Div = styled.div`
   width: 70%;
-  margin: 25rem auto 10rem;
+  margin: 12rem auto 5rem;
   display: grid;
   grid-template-columns: 50% 50%;
   position: relative;

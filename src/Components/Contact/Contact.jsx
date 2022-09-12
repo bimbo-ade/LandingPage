@@ -30,7 +30,7 @@ const Login = () => {
         <h3>Get in Touch</h3>
         <Input type="text" placeholder="name" />
 
-        <Input placeholder="Email" type="email" />
+        <Input placeholder="email" type="email" />
 
         <Button className="btn primary--solid medium"> Submit</Button>
       </div>

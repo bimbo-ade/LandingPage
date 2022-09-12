@@ -9,15 +9,18 @@ const Projects = () => {
       <div className="container">
         {Projectdata.map((items) => {
           return (
-            <div className="cont">
-              <div className="image">
-                <img src={items.img} alt="" />
+            <>
+              <div className="cont">
+                <div className="cont1"> </div>
+                <div className="image">
+                  <img src={items.img} alt="" />
+                </div>
+                <div className="text">
+                  <h3> {items.title}</h3>
+                  <p>{items.desc}</p>
+                </div>
               </div>
-              <div className="text">
-                <h2> {items.title}</h2>
-                <p>{items.desc}</p>
-              </div>
-            </div>
+            </>
           );
         })}
       </div>
